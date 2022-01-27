@@ -5,7 +5,7 @@
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 🤔 Often thinking about ... cyber security solutions for older folks (my mom)!
 - 📫 How to reach me: bendixtmb@gmail.com
-- ⚡ Fun fact: I can speak Portuguese conversationally!
+- ⚡ Fun fact: I can speak Portuguese conversationally, also you can search two words on Google and I hold the 1st result (cool but also terrifying)
 
 
 <!--

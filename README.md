@@ -9,6 +9,8 @@
 
 <!--
 
+https://github.com/Ileriayo/markdown-badges
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

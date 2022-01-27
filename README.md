@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Data Analyst in my current role (I work in consulting so I do lots of things)
 - 🌱 I’m currently expanding my knowledge of SQL, PostgreSQL, Python, Numpy/Pandas, data science/data engineering and all things data!
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
-- 💬 Often thinking about ... cyber security solutions for older folks!
+- 💬 Often thinking about ... cyber security solutions for older folks (my mom)!
 - 📫 How to reach me: bendixtmb@gmail.com
 - ⚡ Fun fact: I can speak conversational Portuguese?? update this
 

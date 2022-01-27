@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Analyst on assignment (I work in consulting)
-- 🌱 I’m currently expanding my knowledge of SQL, Python, Numpy/Pandas, data science/engineering all things data!
+- 🔭 I’m currently working as a Data Analyst in my current role (I work in consulting so I do lots of things)
+- 🌱 I’m currently expanding my knowledge of SQL, Python, Numpy/Pandas, data science/dataengineering and all things data!
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 📫 How to reach me: bendixtmb@gmail.com
 - ⚡ Fun fact: This one will come to me...

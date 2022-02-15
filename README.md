@@ -4,7 +4,7 @@
 - 🌱 I’m currently expanding my knowledge of SQL, PostgreSQL, Python, Numpy/Pandas, data science/data engineering and all things data!
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 🤔 Often thinking about ... cyber security solutions for older folks!
-- 📫 How to reach me: bendixtmb@gmail.com
+- 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
 - ⚡ Fun facts: I can speak Portuguese conversationally; also you can search two words on Google and I hold the 1st result (cool but also terrifying)
 
 

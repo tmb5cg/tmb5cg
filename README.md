@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
+Very baller:
+
 [![tmb5cg's github stats](https://github-readme-stats.vercel.app/api?username=tmb5cg&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tmb5cg)
 

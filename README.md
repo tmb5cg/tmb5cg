@@ -28,3 +28,11 @@ Very baller:
 
 [![tmb5cg's github stats](https://github-readme-stats.vercel.app/api?username=tmb5cg&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tmb5cg)
 
+<div style="padding: 25px 0;">
+    <a href="https://twitter.com/BendixTucker" style="padding: 24px;">
+    <img src="https://github.com/tmb5cg/tmb5cg/blob/main/assets/twitter-green.png" alt="Follow me on twitter"  width="24" height="24">
+    </a>
+     <a href="https://www.linkedin.com/in/tucker-bendix/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/tmb5cg/tmb5cg/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>

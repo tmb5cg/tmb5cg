@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Analyst in my current assignment (I work in consulting so I do lots of things)
-- 🌱 I’m currently expanding my knowledge of SQL, PostgreSQL, Python, Numpy/Pandas, data science/data engineering and all things data!
+- 🔭 I'm currently freelancing between roles in pursuit of a Software Engineer (or Data Engineer) role!
+- 🌱 Take a look at my portfolio: https://tmb5cg.github.io
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 🤔 Often thinking about ... cyber security solutions for older folks!
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)

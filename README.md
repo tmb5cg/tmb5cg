@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently freelancing between roles in pursuit of a Software Engineer (or Data Engineer) role!
+- 🔭 I'm currently freelancing in pursuit of full time Software Engineer roles!
 - 🌱 Take a look at my portfolio: https://tmb5cg.github.io or reach out via Linkedin https://www.linkedin.com/in/tucker-bendix/
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 🤔 Often thinking about ... cyber security solutions for older folks!

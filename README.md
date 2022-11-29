@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I'm currently freelancing in pursuit of full time Software Engineer roles!
+- 🔭 I'm currently freelancing while searching for full-time Software Engineering roles!
 - 🌱 Take a look at my portfolio: https://tmb5cg.github.io or reach out via Linkedin https://www.linkedin.com/in/tucker-bendix/
 - 💬 Ask me about ... automating stuff in Excel or Python botting!
 - 🤔 Often thinking about ... cyber security solutions for older folks!
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
-- ⚡ Fun facts: I can speak Portuguese conversationally; also you can search two words on Google and I hold the 1st result (cool but also terrifying)
+- ⚡ Fun facts: I can speak Portuguese conversationally, also you can search two words on Google and I hold the 1st result (cool but terrifying)
 
 
 <!--

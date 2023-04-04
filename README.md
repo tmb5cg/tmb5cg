@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently freelancing, looking for a full time Software Engineer role
+- 🔭 Software Engineer
 - 🫡 Python, ReactJS, and SQL are my strongsuits
 - 🚀 Check out https://autocropper.io
 - 🌱 Take a look at my portfolio: https://tmb5cg.github.io or reach out via Linkedin https://www.linkedin.com/in/tucker-bendix/

@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Software Engineer
-- 🫡 Python, ReactJS, and SQL are my strongsuits
 - 🚀 Check out https://autocropper.io
-- 🌱 Take a look at my portfolio: https://tmb5cg.github.io or reach out via Linkedin https://www.linkedin.com/in/tucker-bendix/
-- 💬 Ask me about ... automating stuff in Excel or Python botting
-- 🤔 Often thinking about ... cyber security solutions for older folks
+- 🌱 Take a look at my portfolio: https://tmb5cg.github.io
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
-- ⚡ Fun facts: I can speak Portuguese and Spanish (loosely), one of my projects holds the top result on Google for a simple two word search!
+- ⚡ Fun facts: I can speak Portuguese and Spanish
 
 
 <!--
@@ -25,10 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
-Very baller:
-
-[![tmb5cg's github stats](https://github-readme-stats.vercel.app/api?username=tmb5cg&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tmb5cg)
 
 <div style="padding: 25px 0;">
     <a href="https://twitter.com/BendixTucker" style="padding: 24px;">

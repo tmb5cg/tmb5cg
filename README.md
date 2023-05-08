@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Software Engineer
-- 🚀 Check out [AutoCropper](https://www.autocropper.io/?utm_source=github&utm_medium=github)
+- 🚀 Check out [AutoCropper.io](https://www.autocropper.io/?utm_source=github&utm_medium=github)
 - 🌱 Take a look at my portfolio: https://tmb5cg.github.io
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
 - ⚡ Fun facts: I can speak Portuguese and Spanish

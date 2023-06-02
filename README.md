@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Software Engineer
-- 👀 Coming soon: [FUTBIDDER 24: All in one FUT automation desktop application](https://www.futbidder.io/?utm_source=github&utm_medium=github)(autobidder, autobuyer, auto SBC solver, My Club analytics and more!)
+- 👀 Coming soon: [FUTBIDDER 24: All in one FUT automation desktop application](https://www.futbidder.io/?utm_source=github&utm_medium=github) (Autobidder, Autobuyer, auto SBC solver, My Club analytics and more!)
 - 🚀 Check out [AutoCropper.io](https://www.autocropper.io/?utm_source=github&utm_medium=github)
 - 🌱 Take a look at my portfolio: https://tmb5cg.github.io
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)

@@ -1,5 +1,6 @@
 
-- Full stack engineer
+- Full stack software engineer
+- Python, Javascript, React, AWS 
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
 
 <!--

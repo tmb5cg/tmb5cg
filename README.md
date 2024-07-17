@@ -1,7 +1,7 @@
 
-- Software Engineer (Full-stack)
+- Software Engineer
 - Python, React (JavaScript), AWS
-- 💬 Ask me about ... [AutoCropper - The Ultimate Digital Archiving Solution](https://www.autocropper.io/)
+- 💬 Ask me about ... [AutoCropper](https://www.autocropper.io/)
 - 📫 How to reach me: copay-castle.0y@icloud.com (forwards to my actual email)
 
 <!--
